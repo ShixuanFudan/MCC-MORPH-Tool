@@ -43,6 +43,9 @@ Install the required scientific and deep learning dependencies via `pip`:
 ```bash
 pip install torch torch_geometric pandas numpy scikit-learn networkx tqdm matplotlib seaborn lightgbm joblib rdkit
 ```
+## Prepare documents
+
+Please download the Rawdata-Tool/ folder: https://zenodo.org/uploads/21309729 
 
 ## 📂 Repository & Data Architecture
 
