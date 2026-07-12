@@ -47,6 +47,7 @@ pip install torch torch_geometric pandas numpy scikit-learn networkx tqdm matplo
 
 Please download the Rawdata-Tool/ folder: 10.5281/zenodo.21316849 
 > 💡Note1: After downloading, please unzip all files, create a new Rawdata file and put it in
+
 > 💡Note2: In the Rawdata directory, create a new EMS2_MF directory, unzip drug_fp_features_final_new.csv.zip and protein_esm2_features_final_new.csv.zip and put them in
 
 ## 📂 Repository & Data Architecture
